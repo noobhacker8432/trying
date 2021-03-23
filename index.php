@@ -1,5 +1,5 @@
 <?php
 
-include("hqstream")
+include("hqstream.html")
 
 ?>
